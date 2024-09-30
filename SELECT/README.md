@@ -1,5 +1,3 @@
 # SELECT
 
-My SQL projects
-
-Test
+-SELECT OPERATIONS ON TABLES
